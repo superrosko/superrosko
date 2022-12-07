@@ -42,7 +42,5 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab&logoColor=white&color=FCA121)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket&logoColor=white&color=0052CC)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=superrosko&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=20&bg_color=0D1117&icon_color=388AFC&text_color=00C647&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superrosko&hide_title=true&hide_border=true&layout=compact&bg_color=0D1117&icon_color=388AFC&text_color=00C647&theme=dark)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=superrosko.superrosko)
